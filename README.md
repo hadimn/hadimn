@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I am a dedicated **Software Engineer** focused on building modern, scalable, and user-friendly applications.  
+I am a dedicated **Software Developer** focused on building modern, scalable, and user-friendly applications.  
 My interests span **Full-Stack Web Development**, **Mobile Development using Flutter**, and exploring intelligent solutions with **Machine Learning & NLP**.
 
 I love solving real-world problems through technology and continuously improving my skills with hands-on projects.
