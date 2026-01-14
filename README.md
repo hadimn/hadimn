@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hadi</h1>
 
 <p align="center">
-  🔹 Software Engineer <b>To Be</b> | 🔹 Web & Mobile App Developer | 🔹 Passionate Learner  
+  🔹 Software Developer <b>To Be</b> | 🔹 Web & Mobile App Developer | 🔹 Passionate Learner  
 </p>
 
 ---
